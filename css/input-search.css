@@ -1,0 +1,11 @@
+.input-search_ {
+    margin-right: auto !important;
+    margin-left: auto !important;
+    width: 40% !important;
+    background-color: #fff !important;
+    border-radius: 5px !important;
+    border: 1px solid #4883ff !important;
+    color: #232323 !important;
+    font-size: 17px !important;
+    font-weight: 500 !important;
+}
